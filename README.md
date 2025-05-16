@@ -1,1 +1,1 @@
-# emailTemplate
+# EmailTemplate
